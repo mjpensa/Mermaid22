@@ -36,7 +36,7 @@ Flags:
 
 ## Railway Deploy
 
-1. Push to GitHub repo "mermaid2"
+1. Push to GitHub repo "Mermaid222"
 2. Connect to Railway
 3. Set PORT env var
 4. Build command: (default)
